@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\Veiculos\Veiculos\bin\Debug\net8.0\Veiculos.exe
+C:\Users\lucas\source\repos\Veiculos\Veiculos\bin\Debug\net8.0\Veiculos.deps.json
+C:\Users\lucas\source\repos\Veiculos\Veiculos\bin\Debug\net8.0\Veiculos.runtimeconfig.json
+C:\Users\lucas\source\repos\Veiculos\Veiculos\bin\Debug\net8.0\Veiculos.dll
+C:\Users\lucas\source\repos\Veiculos\Veiculos\bin\Debug\net8.0\Veiculos.pdb
+C:\Users\lucas\source\repos\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.dll
+C:\Users\lucas\source\repos\Veiculos\Veiculos\obj\Debug\net8.0\refint\Veiculos.dll
+C:\Users\lucas\source\repos\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.pdb
+C:\Users\lucas\source\repos\Veiculos\Veiculos\obj\Debug\net8.0\Veiculos.genruntimeconfig.cache
+C:\Users\lucas\source\repos\Veiculos\Veiculos\obj\Debug\net8.0\ref\Veiculos.dll

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\source\\repos\\Veiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E12E7E6-6625-4FA1-A934-BD34B61BE9DF}|Veiculos\\Veiculos.csproj|c:\\users\\lucas\\source\\repos\\veiculos\\veiculos\\veiculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E12E7E6-6625-4FA1-A934-BD34B61BE9DF}|Veiculos\\Veiculos.csproj|solutionrelative:veiculos\\veiculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E12E7E6-6625-4FA1-A934-BD34B61BE9DF}|Veiculos\\Veiculos.csproj|c:\\users\\lucas\\source\\repos\\veiculos\\veiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E12E7E6-6625-4FA1-A934-BD34B61BE9DF}|Veiculos\\Veiculos.csproj|solutionrelative:veiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E12E7E6-6625-4FA1-A934-BD34B61BE9DF}|Veiculos\\Veiculos.csproj|c:\\users\\lucas\\source\\repos\\veiculos\\veiculos\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E12E7E6-6625-4FA1-A934-BD34B61BE9DF}|Veiculos\\Veiculos.csproj|solutionrelative:veiculos\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VeiculoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Veiculos\\Veiculos\\VeiculoDAO.cs",
+              "RelativeDocumentMoniker": "Veiculos\\VeiculoDAO.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Veiculos\\Veiculos\\VeiculoDAO.cs",
+              "RelativeToolTip": "Veiculos\\VeiculoDAO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:41:22.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Veiculos\\Veiculos\\Program.cs",
+              "RelativeDocumentMoniker": "Veiculos\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Veiculos\\Veiculos\\Program.cs",
+              "RelativeToolTip": "Veiculos\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:17:18.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\source\\repos\\Veiculos\\Veiculos\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Veiculos\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\lucas\\source\\repos\\Veiculos\\Veiculos\\Veiculo.cs",
+              "RelativeToolTip": "Veiculos\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:17:50.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
